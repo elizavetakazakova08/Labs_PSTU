@@ -4,3 +4,4 @@ build/
 *.obj
 *.ilk
 *.pdb
+desktop.ini
