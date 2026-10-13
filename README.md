@@ -48,8 +48,8 @@ using namespace std;
 
 int main() {
     // Вычисления с типом float
-    float a = 1000.0f;   // Первое число
-    float b = 0.0001f;   // Второе число
+    float a = 1000.0f;   
+    float b = 0.0001f;  
 
     cout << "FLOAT" << endl;
     cout << "a = " << a << endl;
