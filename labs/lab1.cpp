@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -33,12 +33,12 @@ int main() {
 
     return 0;
 }
-    */
-
+  
 
 #include <iostream>
 using namespace std;
-int main() { 
+int main() 
+{ 
     int m = 3; int n = 5;
     // Задание 1: - -m - ++n
     int result1 = -(-m) - ++n;

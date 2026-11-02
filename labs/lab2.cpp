@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, ".65001");
     const double eps = 1e-4;  // Задаём точность вычислений
     int n = 1;  // Номер текущего члена ряда
     double a = 2.0;  // Первый член ряда: a1 = 2^1 * 1! / 1^1 = 2
